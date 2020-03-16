@@ -19,10 +19,6 @@ class Country
         @@all.each {|country| puts "#{country.name}"}
     end
 
-    # Country.display_all
-    # france = Country.new()
-    # france.display_information
-
     def display_information
         puts "Here is the data for #{@name}"
         puts "There are currently #{@cases} reported cases"

@@ -22,7 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This gem can be used to view Coronavirus updates in many countries around the world. 
+
+# Description
+
+This gem was created with inspiration from current events "Covid-19". The information is scraped from https://www.worldometers.info/coronavirus/ and narrowed down to Total Cases, Total Deaths and Total recovered. 
 
 ## Development
 
@@ -32,7 +36,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/newscli. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/newscli/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/[willisaybar]/newscli. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[willis]/newscli/blob/master/CODE_OF_CONDUCT.md).
 
 
 ## License

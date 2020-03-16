@@ -1,8 +1,7 @@
 class Scraper
 
     def fetch(url)
-        req = open(url)
-        response = Nokogiri::HTML(req)
+        response = Nokogiri::HTML(open(url))
         
         index = 0
         while index < response.css("td").size - 9 #last line is total and not a country
