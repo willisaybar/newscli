@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require './lib/environment'
+
+#Initialization
+Scraper.new.fetch('https://www.worldometers.info/coronavirus/')
+#welcome screen
+Cli.new.call

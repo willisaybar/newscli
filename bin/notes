@@ -1,0 +1,14 @@
+welcome the user
+ask user which country they want more information about
+list the country
+show country data- total cases, total deaths, total recovered
+
+Allow user to see all countries
+
+
+
+
+
+
+name_of_first_country = response.css("td")[0].text
+
